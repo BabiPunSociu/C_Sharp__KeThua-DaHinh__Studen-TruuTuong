@@ -1,0 +1,30 @@
+C:\Users\ADMIN\source\C#Programming\Student_trưu_tương\Student_trưu_tương\bin\Debug\net6.0\Student_trưu_tương.exe
+C:\Users\ADMIN\source\C#Programming\Student_trưu_tương\Student_trưu_tương\bin\Debug\net6.0\Student_trưu_tương.deps.json
+C:\Users\ADMIN\source\C#Programming\Student_trưu_tương\Student_trưu_tương\bin\Debug\net6.0\Student_trưu_tương.runtimeconfig.json
+C:\Users\ADMIN\source\C#Programming\Student_trưu_tương\Student_trưu_tương\bin\Debug\net6.0\Student_trưu_tương.dll
+C:\Users\ADMIN\source\C#Programming\Student_trưu_tương\Student_trưu_tương\bin\Debug\net6.0\Student_trưu_tương.pdb
+C:\Users\ADMIN\source\C#Programming\Student_trưu_tương\Student_trưu_tương\obj\Debug\net6.0\Student_trưu_tương.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\C#Programming\Student_trưu_tương\Student_trưu_tương\obj\Debug\net6.0\Student_trưu_tương.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\C#Programming\Student_trưu_tương\Student_trưu_tương\obj\Debug\net6.0\Student_trưu_tương.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\C#Programming\Student_trưu_tương\Student_trưu_tương\obj\Debug\net6.0\Student_trưu_tương.AssemblyInfo.cs
+C:\Users\ADMIN\source\C#Programming\Student_trưu_tương\Student_trưu_tương\obj\Debug\net6.0\Student_trưu_tương.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\C#Programming\Student_trưu_tương\Student_trưu_tương\obj\Debug\net6.0\Student_trưu_tương.dll
+C:\Users\ADMIN\source\C#Programming\Student_trưu_tương\Student_trưu_tương\obj\Debug\net6.0\refint\Student_trưu_tương.dll
+C:\Users\ADMIN\source\C#Programming\Student_trưu_tương\Student_trưu_tương\obj\Debug\net6.0\Student_trưu_tương.pdb
+C:\Users\ADMIN\source\C#Programming\Student_trưu_tương\Student_trưu_tương\obj\Debug\net6.0\Student_trưu_tương.genruntimeconfig.cache
+C:\Users\ADMIN\source\C#Programming\Student_trưu_tương\Student_trưu_tương\obj\Debug\net6.0\ref\Student_trưu_tương.dll
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\Student_trưu_tương\Student_trưu_tương\bin\Debug\net6.0\Student_trưu_tương.exe
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\Student_trưu_tương\Student_trưu_tương\bin\Debug\net6.0\Student_trưu_tương.deps.json
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\Student_trưu_tương\Student_trưu_tương\bin\Debug\net6.0\Student_trưu_tương.runtimeconfig.json
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\Student_trưu_tương\Student_trưu_tương\bin\Debug\net6.0\Student_trưu_tương.dll
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\Student_trưu_tương\Student_trưu_tương\bin\Debug\net6.0\Student_trưu_tương.pdb
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\Student_trưu_tương\Student_trưu_tương\obj\Debug\net6.0\Student_trưu_tương.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\Student_trưu_tương\Student_trưu_tương\obj\Debug\net6.0\Student_trưu_tương.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\Student_trưu_tương\Student_trưu_tương\obj\Debug\net6.0\Student_trưu_tương.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\Student_trưu_tương\Student_trưu_tương\obj\Debug\net6.0\Student_trưu_tương.AssemblyInfo.cs
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\Student_trưu_tương\Student_trưu_tương\obj\Debug\net6.0\Student_trưu_tương.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\Student_trưu_tương\Student_trưu_tương\obj\Debug\net6.0\Student_trưu_tương.dll
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\Student_trưu_tương\Student_trưu_tương\obj\Debug\net6.0\refint\Student_trưu_tương.dll
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\Student_trưu_tương\Student_trưu_tương\obj\Debug\net6.0\Student_trưu_tương.pdb
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\Student_trưu_tương\Student_trưu_tương\obj\Debug\net6.0\Student_trưu_tương.genruntimeconfig.cache
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\Student_trưu_tương\Student_trưu_tương\obj\Debug\net6.0\ref\Student_trưu_tương.dll
